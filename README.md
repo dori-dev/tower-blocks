@@ -14,6 +14,8 @@ Open `index.html` with your browser!
 
 Demo of Game: [dori-dev.github.io/tower-blocks](https://dori-dev.github.io/tower-blocks/)
 
-Download Source Code: [Click Here](https://github.com/dori-dev/tower-blocks/archive/refs/heads/master.zip)
+Download Code: [Click Here](https://github.com/dori-dev/tower-blocks/archive/refs/heads/master.zip)
+
+Source: [Click Here](https://codepen.io/ste-vg/pen/ppLQNW)
 
 My Github Account: [Click Here](https://github.com/dori-dev/)
